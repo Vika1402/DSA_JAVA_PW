@@ -125,6 +125,7 @@ public class LinkedList_Implementaion {
 
     ll.deleteAtIndex(0);
     ll.size();
+    ll.display();
 
   }
 }
